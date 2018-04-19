@@ -5,3 +5,6 @@
   * redux
   * realm
   * react-native-router-flux
+
+#### Before starting 
+     npm install -g react-native-cli
